@@ -1,5 +1,5 @@
 TrafficSim
 ==========
-Traffic Simulation for SE450 Project println
+Traffic Simulation for SE450 Project
 
-Compile and run the Main/main and a UI will prompt for user input.
+Developed a simulation program in Java that simulated traffic conditions which included different car speeds, lengths, and directions as well as intersections with changing traffic lights. Implemented 5-6 design patterns
